@@ -96,9 +96,7 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
-![WhatsApp Image 2026-02-04 at 11 12 00 AM](https://github.com/user-attachments/assets/9803811b-632e-428a-a780-294307651f83)
 
-![WhatsApp Image 2026-02-04 at 11 12 01 AM](https://github.com/user-attachments/assets/b8c766fa-98d9-4de7-902f-ddf26edd4262)
 
 
 ---
