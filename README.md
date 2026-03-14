@@ -96,6 +96,9 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
+![Alt text](image.png)
+![Alt text](<WhatsApp Image 2026-03-14 at 14.12.22.jpeg>)
+
 
 
 
